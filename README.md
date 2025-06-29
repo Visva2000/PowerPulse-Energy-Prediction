@@ -16,5 +16,4 @@ In today's world, energy management is crucial for both consumers and energy pro
 The goal is to predict **Global Active Power** usage and analyze which appliances (via Sub_metering) consume the most energy.
 
 ---
-
-## Dataset: https://drive.google.com/file/d/1c99Otps4io_08AHW-JjjNIB-o_vXtK1b/view?usp=drive_link
+Dataset: https://drive.google.com/file/d/1c99Otps4io_08AHW-JjjNIB-o_vXtK1b/view?usp=drive_link
